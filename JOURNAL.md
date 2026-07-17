@@ -12,5 +12,8 @@ Lapse- https://lapse.hackclub.com/timelapse/utF85UyXEuJ8
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/42ca6423-4ff7-463c-9b0a-cf90179d05d4" />
 6. Block 6 Output connector | 3 mins
 <img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/39e0f9e8-f9d8-441a-85e0-170bee1a665b" />
+# PCB tracing, trouble shooting, Gerber generation | 44 mins  
+Lapse- https://lapse.hackclub.com/timelapse/Qjk5NkHe_Sgc  
+<img width="1366" height="768" alt="image" src="https://github.com/user-attachments/assets/22be9ab5-ce1c-4581-8098-ec817ac48805" />
 
 
